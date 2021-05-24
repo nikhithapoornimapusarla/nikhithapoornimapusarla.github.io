@@ -12580,3 +12580,8 @@ textarea.form-control {
     stroke-dashoffset: -136px;
   }
 }
+
+.constact-img {
+  height: 50rem;
+  background-size: cover;
+}
